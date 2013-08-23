@@ -34,6 +34,9 @@ FLYM plays AtariST register dumps. It's incomplete and has bugs.
 Plays AHX/HVL. AHX playback as accurate as hively's.
  https://github.com/pachuco/fl-hively
 
+-Nitro In a Flash by Henke37
+Plays NCSF, a relative of PSF for Nintendo DS music.
+ https://www.assembla.com/code/sdat4as/subversion/nodes/Nitro
 
 
 
