@@ -37,6 +37,23 @@ Plays AHX/HVL. AHX playback as accurate as hively's.
 
 
 
-*Uncategorized
+*Closed-Source
 
+
+
+
+*Uncategorized
+-8bitboy
 http://8bitboy.popforge.de/
+
+-FlashNSF
+http://www.p1xl.com/fun/flashnsf/
+
+-Tiny'R'Sid
+http://www.wothke.ch/tinyrsid/index.php/component/ars/repository/tinyrsid/tinyrsid-0-7-4
+
+-FOggPlayer
+http://foggplayer.sourceforge.net/
+
+-anoggplayer
+http://code.google.com/p/anoggplayer/
