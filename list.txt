@@ -1,0 +1,42 @@
+*Flash 9 and later
+-fmp by Kostas "Bad Sector" Michalopoulos
+Plays MOD and has basic XM support.
+Precalculates song and doesn't support looping?
+  http://runtimelegend.com/tools/fmp/
+  https://github.com/badsector/fmp/
+
+
+
+
+*Flash 10 and later
+-flxmp by Paul Lawitzki
+Plays XM. Don't know how well.
+ http://code.google.com/p/flxmp/
+
+-Flash Mod Player by STG
+Plays MOD. Not exactly accurate.
+ https://github.com/stg/Flash-ProTracker-Mod-Player-AS3
+ http://wiki.forskningsavd.se/index.php/Flash_Mod_Player
+
+-hxMikMod by jouko
+Why do people insist on porting MikMod?????
+MikMod is notoriously bad in general. Didn't try this port much.
+ http://code.google.com/p/hxmikmod/
+
+-FLOD/FLXM/FLYM by Photon Storm
+FLOD plays MOD and a few other amiga formats. Good.
+FLXM plays XM. Has been integrated into FLOD. Somewhat buggy.
+FLYM plays AtariST register dumps. It's incomplete and has bugs.
+ https://github.com/photonstorm/Flod
+ http://www.photonstorm.com/flod
+
+-fl-hively by pachuco
+Plays AHX/HVL. AHX playback as accurate as hively's.
+ https://github.com/pachuco/fl-hively
+
+
+
+
+*Uncategorized
+
+http://8bitboy.popforge.de/
