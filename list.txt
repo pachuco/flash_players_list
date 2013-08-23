@@ -1,7 +1,7 @@
 *Flash 9 and later
 -fmp by Kostas "Bad Sector" Michalopoulos
 Plays MOD and has basic XM support.
-Precalculates song and doesn't support looping?
+Precalculates song and doesn't support loops in middle of tune?
   http://runtimelegend.com/tools/fmp/
   https://github.com/badsector/fmp/
 
@@ -24,7 +24,7 @@ MikMod is notoriously bad in general. Didn't try this port much.
  http://code.google.com/p/hxmikmod/
 
 -FLOD/FLXM/FLYM by Photon Storm
-FLOD plays MOD and a few other amiga formats. Good.
+FLOD plays MOD and a few other amiga formats. Pretty good.
 FLXM plays XM. Has been integrated into FLOD. Somewhat buggy.
 FLYM plays AtariST register dumps. It's incomplete and has bugs.
  https://github.com/photonstorm/Flod
