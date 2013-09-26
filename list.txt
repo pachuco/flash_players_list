@@ -21,6 +21,10 @@ Plays MOD. Not exactly accurate.
 -hxMikMod by jouko
 Why do people insist on porting MikMod?????
 MikMod is notoriously bad in general. Didn't try this port much.
+.mod: high note troubles, broken effects; note retrigger is wrongly timed, portamento hickups, no invert loop.
+.s3m: actually decent. Mind you, not perfect.
+.xm: chokes on Jeroen Tell - Stranglehold.
+.it: doesn't even load tune half of the time.
  http://code.google.com/p/hxmikmod/
 
 -FLOD/FLXM/FLYM by Photon Storm
