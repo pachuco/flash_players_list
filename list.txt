@@ -62,6 +62,9 @@ http://www.wothke.ch/tinyrsid/index.php/component/ars/repository/tinyrsid/tinyrs
 -TinySidFlash
 http://unitzeroone.com/blog/2009/02/12/playing-with-alchemy-c64-music-playback-on-flash-10/
 
+-flashModPlug
+http://www.unitzeroone.com/labs/flashModPlug/
+
 -FOggPlayer
 http://foggplayer.sourceforge.net/
 
