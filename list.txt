@@ -10,7 +10,7 @@ Precalculates song and doesn't support loops in middle of tune?
 
 *Flash 10 and later
 -flxmp by Paul Lawitzki
-Plays XM. Don't know how well.
+Plays XM. Haven't tried.
  http://code.google.com/p/flxmp/
 
 -Flash Mod Player by STG
@@ -24,7 +24,7 @@ Why do people insist on porting MikMod????? MikMod is notoriously bad in general
 .s3m: somewhat decent. Spotted one case of broken vibrato.
 .xm: chokes on Jeroen Tell - Stranglehold, broken envelopes. One tune actually breaks the player and prevents it from playing any tune at all
 .it: doesn't even load tunes half of the time.
-Conclusion: bad bad bad bad
+Conclusion: bad bad bad bad!
  http://code.google.com/p/hxmikmod/
 
 -FLOD/FLXM/FLYM by Photon Storm
@@ -39,13 +39,19 @@ Plays AHX/HVL. Grows in paralell with Xeron's hively replayer.
  https://github.com/pachuco/fl-hively
 
 -Nitro In a Flash by Henke37
-Plays NCSF, a relative of PSF for Nintendo DS music.
+Plays NCSF, a relative of PSF for Nintendo DS music. Haven't tried.
  https://www.assembla.com/code/sdat4as/subversion/nodes/Nitro
 
 
 
 *Closed-Source
+-TinySidFlash
+Demo app. No swc lib or source whatsoever.
+ http://unitzeroone.com/blog/2009/02/12/playing-with-alchemy-c64-music-playback-on-flash-10/
 
+-flashModPlug
+Demo app. No swc lib or source whatsoever.
+ http://www.unitzeroone.com/labs/flashModPlug/
 
 
 
@@ -58,12 +64,6 @@ http://www.p1xl.com/fun/flashnsf/
 
 -Tiny'R'Sid
 http://www.wothke.ch/tinyrsid/index.php/component/ars/repository/tinyrsid/tinyrsid-0-7-4
-
--TinySidFlash
-http://unitzeroone.com/blog/2009/02/12/playing-with-alchemy-c64-music-playback-on-flash-10/
-
--flashModPlug
-http://www.unitzeroone.com/labs/flashModPlug/
 
 -FOggPlayer
 http://foggplayer.sourceforge.net/
