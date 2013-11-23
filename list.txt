@@ -56,14 +56,15 @@ Demo app. No swc lib or source whatsoever.
 Demo app. No swc lib or source whatsoever.
  http://www.unitzeroone.com/labs/flashModPlug/
 
+-FlashNSF
+Usable web player. No swc lib or source otherwise.
+http://www.p1xl.com/fun/flashnsf/
+
 
 
 *Uncategorized
 -8bitboy
 http://8bitboy.popforge.de/
-
--FlashNSF
-http://www.p1xl.com/fun/flashnsf/
 
 -Tiny'R'Sid
 http://www.wothke.ch/tinyrsid/index.php/component/ars/repository/tinyrsid/tinyrsid-0-7-4
