@@ -40,6 +40,7 @@ Plays AHX/HVL. Grows in paralell with Xeron's hively replayer.
 
 -AS3 VGM Player by Shiru
 VGM player. Only SN76489(Sega PSG) is supported.
+Provided example tune sounds somewhat off from VGMplay.
 http://shiru.untergrund.net/code.shtml
 
 -Nitro In a Flash by Henke37
