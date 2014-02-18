@@ -38,6 +38,10 @@ FLYM plays AtariST register dumps. It's incomplete and has bugs.
 Plays AHX/HVL. Grows in paralell with Xeron's hively replayer.
  https://github.com/pachuco/fl-hively
 
+-AS3 VGM Player by Shiru
+VGM player. Only SN76489(Sega PSG) is supported.
+http://shiru.untergrund.net/code.shtml
+
 -Nitro In a Flash by Henke37
 Nintendo DS .sdat player. Haven't tried.
  https://www.assembla.com/code/sdat4as/subversion/nodes/Nitro
