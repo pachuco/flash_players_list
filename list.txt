@@ -68,7 +68,7 @@ Usable web player. No swc lib or source otherwise.
 
 *Miscelaneous
 -Atari 2600 TIA Sound Chip for AS3 / Flash by Suese
-http://www.ludumdare.com/compo/2012/12/14/atari-2600-tia-sound-chip-for-as3-flash/
+ http://www.ludumdare.com/compo/2012/12/14/atari-2600-tia-sound-chip-for-as3-flash/
 
 
 *Uncategorized
