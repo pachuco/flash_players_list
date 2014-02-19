@@ -63,10 +63,10 @@ Demo app. No swc lib or source whatsoever.
 
 -FlashNSF
 Usable web player. No swc lib or source otherwise.
-http://www.p1xl.com/fun/flashnsf/
+ http://www.p1xl.com/fun/flashnsf/
 
 
-*Not really players
+*Miscelaneous
 -Atari 2600 TIA Sound Chip for AS3 / Flash by Suese
 http://www.ludumdare.com/compo/2012/12/14/atari-2600-tia-sound-chip-for-as3-flash/
 
