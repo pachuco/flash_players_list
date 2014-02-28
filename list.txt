@@ -2,8 +2,8 @@
 -fmp by Kostas "Bad Sector" Michalopoulos
 Plays MOD and has basic XM support.
 Precalculates song and doesn't support loops in middle of tune?
-  http://runtimelegend.com/tools/fmp/
-  https://github.com/badsector/fmp/
+ http://runtimelegend.com/tools/fmp/
+ https://github.com/badsector/fmp/
 
 
 
@@ -41,7 +41,7 @@ Plays AHX/HVL. Grows in paralell with Xeron's hively replayer.
 -AS3 VGM Player by Shiru
 VGM player. Only SN76489(Sega PSG) is supported.
 Provided example tune sounds somewhat off from VGMplay.
-http://shiru.untergrund.net/code.shtml
+ http://shiru.untergrund.net/code.shtml
 
 -Nitro In a Flash by Henke37
 Nintendo DS .sdat player. Haven't tried.
@@ -65,6 +65,9 @@ Demo app. No swc lib or source whatsoever.
 Usable web player. No swc lib or source otherwise.
  http://www.p1xl.com/fun/flashnsf/
 
+-Syntrax Flash Player v0.1 by Reiner Van Vliet
+Webplayer for syntrax/jaytrax format.
+ http://www.finished.nl/index.html
 
 *Miscelaneous
 -Atari 2600 TIA Sound Chip for AS3 / Flash by Suese
