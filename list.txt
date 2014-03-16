@@ -66,7 +66,7 @@ Usable web player. No swc lib or source otherwise.
  http://www.p1xl.com/fun/flashnsf/
 
 -Syntrax Flash Player v0.1 by Reiner Van Vliet
-Usable webplayer for syntrax and 8chan jaytrax formats.
+Usable webplayer.
 Zip download doesn't work but you can look at site's songs.xml to see how it's used.
  http://www.finished.nl/flashsynth.html
 
