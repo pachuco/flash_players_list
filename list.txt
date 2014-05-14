@@ -43,6 +43,12 @@ VGM player. Only SN76489(Sega PSG) is supported.
 Provided example tune sounds somewhat off from VGMplay.
  http://shiru.untergrund.net/code.shtml
 
+-Flash SPC player by hikipuro
+Alchemy port of Blargg's snes_spc.
+Example player on page plays at wrong pitch, but only because author couldn't be arsed to use a reasmpler.
+This is because replayer outputs at 32khz instead of 44.1khz. Works well otherwise.
+ http://hkpr.info/flash/spcplayer/en.php
+
 -Nitro In a Flash by Henke37
 Nintendo DS .sdat player. Haven't tried.
  https://www.assembla.com/code/sdat4as/subversion/nodes/Nitro
